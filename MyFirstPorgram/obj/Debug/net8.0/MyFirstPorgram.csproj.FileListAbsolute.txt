@@ -1,0 +1,14 @@
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\bin\Debug\net8.0\MyFirstPorgram.exe
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\bin\Debug\net8.0\MyFirstPorgram.deps.json
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\bin\Debug\net8.0\MyFirstPorgram.runtimeconfig.json
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\bin\Debug\net8.0\MyFirstPorgram.dll
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\bin\Debug\net8.0\MyFirstPorgram.pdb
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\MyFirstPorgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\MyFirstPorgram.AssemblyInfoInputs.cache
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\MyFirstPorgram.AssemblyInfo.cs
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\MyFirstPorgram.csproj.CoreCompileInputs.cache
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\MyFirstPorgram.dll
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\refint\MyFirstPorgram.dll
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\MyFirstPorgram.pdb
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\MyFirstPorgram.genruntimeconfig.cache
+C:\Users\saifu\source\repos\MyFirstPorgram\MyFirstPorgram\obj\Debug\net8.0\ref\MyFirstPorgram.dll
