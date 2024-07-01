@@ -9,6 +9,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{35859A4E-0BFE-4948-82AE-04512F642B40}|MyFirstPorgram\\MyFirstPorgram.csproj|c:\\users\\saifu\\source\\repos\\myfirstporgram\\myfirstporgram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35859A4E-0BFE-4948-82AE-04512F642B40}|MyFirstPorgram\\MyFirstPorgram.csproj|solutionrelative:myfirstporgram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saifu\\AppData\\Local\\SourceServer\\1c4c825283f5e6d30818d5d26aed6cdf319345feb3a8b5080d98365adf32de0b\\MyFirstPorgram\\AssignmentQuestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +21,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignmentQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\saifu\\AppData\\Local\\SourceServer\\1c4c825283f5e6d30818d5d26aed6cdf319345feb3a8b5080d98365adf32de0b\\MyFirstPorgram\\AssignmentQuestions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\1c4c825283f5e6d30818d5d26aed6cdf319345feb3a8b5080d98365adf32de0b\\MyFirstPorgram\\AssignmentQuestions.cs",
+              "ToolTip": "C:\\Users\\saifu\\AppData\\Local\\SourceServer\\1c4c825283f5e6d30818d5d26aed6cdf319345feb3a8b5080d98365adf32de0b\\MyFirstPorgram\\AssignmentQuestions.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\1c4c825283f5e6d30818d5d26aed6cdf319345feb3a8b5080d98365adf32de0b\\MyFirstPorgram\\AssignmentQuestions.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAIcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:47:51.53Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +44,7 @@
               "RelativeDocumentMoniker": "MyFirstPorgram\\AssignmentQuestions.cs",
               "ToolTip": "C:\\Users\\saifu\\source\\repos\\MyFirstPorgram\\MyFirstPorgram\\AssignmentQuestions.cs",
               "RelativeToolTip": "MyFirstPorgram\\AssignmentQuestions.cs",
-              "ViewState": "AQIAAG8AAAAANDMzMzMLwIYAAAAAAAAA",
+              "ViewState": "AQIAABgCAAAAbWZmZmYkwCICAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T05:53:48.174Z",
               "EditorCaption": ""
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "MyFirstPorgram\\Program.cs",
               "ToolTip": "C:\\Users\\saifu\\source\\repos\\MyFirstPorgram\\MyFirstPorgram\\Program.cs",
               "RelativeToolTip": "MyFirstPorgram\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T05:52:39.925Z",
               "EditorCaption": ""
